@@ -88,25 +88,25 @@ Let users self-select their learning level (e.g., “Explain it simply” vs. �
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 Use Simple, Clear Language
-✅ Avoid jargon and technical acronyms, or define them clearly.
-✅ Use short, straightforward sentences.
-✅ Write as if you’re explaining to a friend with no background in the topic.
+ Avoid jargon and technical acronyms, or define them clearly.
+ Use short, straightforward sentences.
+ Write as if you’re explaining to a friend with no background in the topic.
 
 Example:
-❌ “Our AI model utilizes a convolutional neural network (CNN) with backpropagation for optimization.”
-✅ “Our AI model works like a brain that learns from mistakes to improve image recognition.”
+ “Our AI model utilizes a convolutional neural network (CNN) with backpropagation for optimization.”
+ “Our AI model works like a brain that learns from mistakes to improve image recognition.”
 
 2. Use Analogies & Real-World Comparisons
-✅ Relate complex concepts to everyday experiences.
-✅ Make it relevant to the audience’s background.
+ Relate complex concepts to everyday experiences.
+ Make it relevant to the audience’s background.
 
 Example:
 
 Cloud storage → “Like renting a storage unit instead of keeping boxes in your garage.”
 Encryption → “Like sending a locked box where only the recipient has the key.”
 3. Break Down Complex Ideas Into Steps
-✅ Use step-by-step explanations.
-✅ Start with the “big picture” before diving into details.
+ Use step-by-step explanations.
+ Start with the “big picture” before diving into details.
 
 Example:
 Instead of explaining how a blockchain works all at once, break it down into:
